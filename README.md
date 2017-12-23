@@ -1,9 +1,14 @@
 # Graph-Algorithms
 Implements a number of graph algorithms
 
-Run: java NetworkAnalysis network_data_file.txt
+Compile and run:
+
+```
+java NetworkAnalysis network_data_file.txt
+```
 
 Options are as follows:
+
 1. Find lowest latency path
 2. Determine if the graph is copper-only connected
 3. Find the maximum amount of data on a path (max flow)
